@@ -22,8 +22,5 @@ while(c<=n){
 }
 printf("Sum of the numbers : %d", sum);
 
-
-
-
 	return 0;
 } 
